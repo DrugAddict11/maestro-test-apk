@@ -9,6 +9,9 @@
 - inputText: "jalaistimewa"
 - tapOn: "Masuk"
 - tapOn:
+    text: "Masuk"
+    index: 1
+- tapOn:
     point : "970,2240"
 - tapOn: "Pengaturan"
 - tapOn: "Hapus Akun"
