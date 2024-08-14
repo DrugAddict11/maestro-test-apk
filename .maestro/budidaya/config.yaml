@@ -1,3 +1,2 @@
-#config.yaml
-flows:
-  - "**"
+include: 
+  - "flows/**/*.yaml"
