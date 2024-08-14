@@ -22,8 +22,8 @@ appId: tech.jala.android.lite
 - tapOn: "Parsial"
 
 - tapOn: 
--   text: "-"
--   index: 0
+    text: "-"
+    index: 0
 - inputText: 
     text: "400"
     label: "Ketik 400"
@@ -31,8 +31,8 @@ appId: tech.jala.android.lite
 - hideKeyboard
 
 - tapOn: 
--   text: "-"
--   index: 1
+    text: "-"
+    index: 1
 - inputText: 
     text: "100"
     label: "Ketik 100"
@@ -40,8 +40,8 @@ appId: tech.jala.android.lite
 - hideKeyboard
 
 - tapOn: 
--   text: "-"
--   index: 2
+    text: "-"
+    index: 2
 - inputText: 
     text: "45000"
     label: "Ketik 45000"
@@ -55,14 +55,14 @@ appId: tech.jala.android.lite
       index: 1
 
 - tapOn: 
--   text: "Pembeli"
+    text: "Pembeli"
 - inputText: 
     text: "JALA"
     label: "Ketik JALA"
     index: 1
 
 - tapOn: 
--   text: "Catatan"
+    text: "Catatan"
 - inputText: 
     text: "Test automation"
     label: "Test automation"
@@ -74,8 +74,8 @@ appId: tech.jala.android.lite
     point: 555,287
 
 - tapOn: 
--   text: "-"
--   index: 0
+    text: "-"
+    index: 0
 - inputText: 
     text: "375"
     label: "Ketik 375"
@@ -83,8 +83,8 @@ appId: tech.jala.android.lite
 - hideKeyboard
 
 - tapOn: 
--   text: "-"
--   index: 1
+    text: "-"
+    index: 1
 - inputText: 
     text: "95"
     label: "Ketik 95"
@@ -92,8 +92,8 @@ appId: tech.jala.android.lite
 - hideKeyboard
 
 - tapOn: 
--   text: "-"
--   index: 2
+    text: "-"
+    index: 2
 - inputText: 
     text: "47500"
     label: "Ketik 47500"
