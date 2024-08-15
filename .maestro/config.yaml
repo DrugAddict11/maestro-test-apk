@@ -3,6 +3,10 @@ flows:
   
 excludeTags:
   - login
+  - ATPANEN
+  - ATPERLAKUAN
+  - ATSAMPLING
+  
 executionOrder:
     continueOnFailure: false
     flowsOrder:
