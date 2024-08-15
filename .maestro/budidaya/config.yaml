@@ -1,2 +1,14 @@
-include: 
-  - "flows/**/*.yaml"
+flows:
+  - budidaya/kimia/*
+  
+excludeTags:
+  - login
+  - ATPANEN
+  - ATPERLAKUAN
+  - ATSAMPLING
+  
+executionOrder:
+    continueOnFailure: false
+    flowsOrder:
+        - AT44CRUD
+        
