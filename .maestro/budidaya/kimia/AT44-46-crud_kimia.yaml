@@ -18,6 +18,7 @@ tags:
 #pilih menu kolam
 - tapOn:
     point: 235, 681
+ #tap A1
  
 - tapOn:
     point: 57, 375
