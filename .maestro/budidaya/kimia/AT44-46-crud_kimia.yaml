@@ -26,6 +26,12 @@ tags:
 #pilih menu kolam
 - tapOn:
     point: 235, 681
+
+- tapOn:
+    text: "Kolam"
+    repeat: 3
+    delay: 5000
+    
  #tap A1
 - tapOn:
     point: 57, 375
