@@ -15,6 +15,14 @@ tags:
 - tapOn:
     text: "Automation Flutter"
 
+- assertVisible:
+    text: "Kolam"
+
+- tapOn:
+    text: "Lite"
+    repeat: 3
+    delay: 5000
+
 #pilih menu kolam
 - tapOn:
     point: 235, 681
