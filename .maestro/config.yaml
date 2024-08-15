@@ -1,0 +1,10 @@
+flows:
+  - budidaya/kimia/*
+  
+excludeTags:
+  - login
+executionOrder:
+    continueOnFailure: false
+    flowsOrder:
+        - AT44CRUD
+        
