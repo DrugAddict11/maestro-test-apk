@@ -15,6 +15,9 @@ tags:
 #pilih field Automation Flutter
 - tapOn:
     point: 150,220
+
+- tapOn:
+    text: "Automation Flutter"
  
 - tapOn: "A1"
 - tapOn: "Sampling"
