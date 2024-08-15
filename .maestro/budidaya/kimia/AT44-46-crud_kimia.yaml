@@ -86,7 +86,7 @@ tags:
     direction: DOWN
 
 - tapOn:
-    text: "  Ubah Data Kimia"
+    text: "Tambah Data Kimia"
     repeat: 3
     delay: 5000
     
