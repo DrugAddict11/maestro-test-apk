@@ -29,9 +29,18 @@ tags:
  #tap A1
 - tapOn:
     point: 57, 375
-    
+
+#tap sampling
 - tapOn:
     point: 435, 155
+
+#tap panen
+- tapOn:
+    point: 578, 161
+
+#tap panen
+- tapOn:
+    point: 547, 155
     
 - tapOn: 
     text: "Catatan"
@@ -71,13 +80,14 @@ tags:
       text: "Kesadahan (Hardness) (ppm)" # or any other selecto
     direction: DOWN
     
-
 - tapOn: 
     text: "-"
     index: 3
 - inputText: 
-    text: "300"
+    text: "400"
     label: "Ketik 400"
+    
+- hideKeyboard
 
 - tapOn: "Simpan"
 
