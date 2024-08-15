@@ -3,7 +3,7 @@ name: AT44CRUD
 tags:
   - ATKIMIA
 ---
-- clearstate
+- clearState
 - launchApp
 
 - runflow: login_email.yaml
