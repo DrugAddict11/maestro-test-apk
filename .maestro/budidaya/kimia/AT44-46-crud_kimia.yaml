@@ -77,7 +77,7 @@ tags:
 - hideKeyboard
 
 - tapOn:
-    point: 565, 1039
+    point: 565, 1035
 
 -  scrollUntilVisible:
     element:
