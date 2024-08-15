@@ -84,6 +84,11 @@ tags:
     element:
       text: "Kesadahan (Hardness) (ppm)" # or any other selecto
     direction: DOWN
+
+- tapOn:
+    text: "  Ubah Data Kimia"
+    repeat: 3
+    delay: 5000
     
 - tapOn: 
     text: "-"
