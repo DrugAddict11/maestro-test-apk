@@ -23,7 +23,7 @@ tags:
 - tapOn:
     point: 57, 375
 - swipe:              
-    direction: RIGHT
+    direction: LEFT
 - assertVisible: "Sampling"
 - tapOn: "Sampling"
 - tapOn: "Panen"
