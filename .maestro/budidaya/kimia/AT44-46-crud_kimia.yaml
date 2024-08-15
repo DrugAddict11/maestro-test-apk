@@ -30,12 +30,8 @@ tags:
 - tapOn:
     point: 57, 375
     
-- tapOn: 
-    text: "Sampling"
-- tapOn: 
-    text: "Panen"
-- tapOn: 
-    text: "Kimia"
+- tapOn:
+    point: 435, 155
     
 - tapOn: 
     text: "Catatan"
