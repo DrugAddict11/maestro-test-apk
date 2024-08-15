@@ -19,15 +19,16 @@ tags:
 - tapOn:
     point: 235, 681
  #tap A1
- 
 - tapOn:
     point: 57, 375
-- swipe:              
-    direction: LEFT
-- assertVisible: "Sampling"
-- tapOn: "Sampling"
-- tapOn: "Panen"
-- tapOn: "Kimia"
+    
+- tapOn: 
+    text: "Sampling"
+- tapOn: 
+    text: "Panen"
+- tapOn: 
+    text: "Kimia"
+    
 - tapOn: 
     text: "Catatan"
 
