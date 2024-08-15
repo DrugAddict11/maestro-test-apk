@@ -83,7 +83,7 @@ tags:
 -  scrollUntilVisible:
     element:
       text: "Kesadahan (Hardness) (ppm)" # or any other selecto
-    direction: UP
+    direction: DOWN
 
 - tapOn:
     text: "Tambah Data Kimia"
