@@ -50,17 +50,15 @@ tags:
     
 - tapOn: 
     text: "Catatan"
-
+    
 - tapOn: 
     text: "-"
-    index: 0
+    index: 2
 - inputText: 
-    text: "100"
-    label: "Ketik 100"
+    text: "300"
+    label: "Ketik 300"
 
-- hideKeyboard
-
-- tapOn: 
+  - tapOn: 
     text: "-"
     index: 1
 - inputText: 
@@ -71,10 +69,10 @@ tags:
 
 - tapOn: 
     text: "-"
-    index: 2
+    index: 0
 - inputText: 
-    text: "300"
-    label: "Ketik 300"
+    text: "100"
+    label: "Ketik 100"
 
 - hideKeyboard
 
@@ -88,7 +86,7 @@ tags:
     
 - tapOn: 
     text: "-"
-    index: 3
+    index: 0
 - inputText: 
     text: "400"
     label: "Ketik 400"
@@ -99,17 +97,17 @@ tags:
 
 # tap icon titik tiga
 - tapOn:
-    point:
+    point: 553, 286
 
 - tapOn:
     text: "ubah"
 
-- tapOn: 
+  - tapOn: 
     text: "-"
-    index: 0
+    index: 2
 - inputText: 
-    text: "10,5"
-    label: "Ketik 10,5"
+    text: "30,24"
+    label: "Ketik 30,24"
 
 - hideKeyboard
 
@@ -120,14 +118,14 @@ tags:
     text: "20,7"
     label: "Ketik 20,7"
 
-- hideKeyboard
+- hide keyboard
 
 - tapOn: 
     text: "-"
-    index: 2
+    index: 0
 - inputText: 
-    text: "30,24"
-    label: "Ketik 30,24"
+    text: "10,5"
+    label: "Ketik 10,5"
 
 - hideKeyboard
 
@@ -135,7 +133,7 @@ tags:
 
 # tap icon titik tiga
 - tapOn:
-    point:
+    point: 553, 286
 
 - tapOn:
     text: "Hapus"
