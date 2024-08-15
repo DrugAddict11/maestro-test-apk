@@ -78,7 +78,7 @@ tags:
 
 - tapOn:
     text: "Parameter lainnya"
-    point: 142, 1035
+    point: 142, 1025
 
 -  scrollUntilVisible:
     element:
