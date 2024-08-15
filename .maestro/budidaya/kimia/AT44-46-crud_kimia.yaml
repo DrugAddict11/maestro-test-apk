@@ -8,16 +8,16 @@ tags:
 
 - runFlow: login_email.yaml
 
-#pilih menu kolam
-- tapOn:
-    point: 235, 681
-
 #pilih field Automation Flutter
 - tapOn:
     point: 150,220
 
 - tapOn:
     text: "Automation Flutter"
+
+#pilih menu kolam
+- tapOn:
+    point: 235, 681
  
 - tapOn: "A1"
 - tapOn: "Sampling"
