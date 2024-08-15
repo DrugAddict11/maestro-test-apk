@@ -58,7 +58,7 @@ tags:
     text: "300"
     label: "Ketik 300"
 
-  - tapOn: 
+- tapOn: 
     text: "-"
     index: 1
 - inputText: 
