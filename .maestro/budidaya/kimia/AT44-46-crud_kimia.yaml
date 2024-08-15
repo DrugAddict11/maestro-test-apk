@@ -6,7 +6,7 @@ tags:
 - clearState
 - launchApp
 
-- runflow: login_email.yaml
+- runFlow: login_email.yaml
 
 #pilih menu kolam
 - tapOn:
