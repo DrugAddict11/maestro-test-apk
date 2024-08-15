@@ -19,7 +19,8 @@ tags:
 - tapOn:
     point: 235, 681
  
-- tapOn: "A1"
+- tapOn:
+    point: 57, 375
 - tapOn: "Sampling"
 - tapOn: "Panen"
 - tapOn: "Kimia"
