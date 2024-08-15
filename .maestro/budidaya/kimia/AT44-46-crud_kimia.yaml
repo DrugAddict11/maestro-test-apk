@@ -57,7 +57,7 @@ tags:
     element:
       text: "Kesadahan (Hardness) (ppm)" # or any other selecto
     direction: DOWN
-    index: 1
+    
 
 - tapOn: 
     text: "-"
