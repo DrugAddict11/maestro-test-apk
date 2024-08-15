@@ -22,6 +22,9 @@ tags:
  
 - tapOn:
     point: 57, 375
+- swipe:              
+    direction: RIGHT
+- assertVisible: "Sampling"
 - tapOn: "Sampling"
 - tapOn: "Panen"
 - tapOn: "Kimia"
