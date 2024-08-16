@@ -75,7 +75,7 @@ tags:
     label: "Ketik 100"
 
 - hideKeyboard
-
+- scroll
 - tapOn:
     text: "Parameter lainnya"
     point: 142, 1025
