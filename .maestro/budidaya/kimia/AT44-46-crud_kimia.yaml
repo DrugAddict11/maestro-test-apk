@@ -85,11 +85,6 @@ tags:
       text: "Kesadahan (Hardness) (ppm)" # or any other selecto
     direction: DOWN
 
-- tapOn:
-    text: "Tambah Data Kimia"
-    repeat: 3
-    delay: 5000
-    
 - tapOn: 
     text: "-"
     index: 0
