@@ -1,14 +1,14 @@
 flows:
-  - budidaya/sampling/*
+  - budidaya/kimia/*
   
 excludeTags:
   - login
   - ATPANEN
   - ATPERLAKUAN
-  - ATKIMIA
+  - ATSAMPLING
   
 executionOrder:
     continueOnFailure: false
     flowsOrder:
-        - AT32CRUD
+        - AT44CRUD
         
