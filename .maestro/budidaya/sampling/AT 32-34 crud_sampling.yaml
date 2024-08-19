@@ -45,7 +45,6 @@ tags:
 -  scrollUntilVisible:
     element:
       text: "Catatan" # or any other selecto
-      index: 1
     direction: DOWN
    
 - tapOn: 
