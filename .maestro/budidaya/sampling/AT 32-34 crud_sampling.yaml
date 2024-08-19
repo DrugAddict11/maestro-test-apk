@@ -20,7 +20,7 @@ tags:
 
 - tapOn:
     text: "Lite"
-    repeat: 3
+    repeat: 2
     delay: 5000
     
 #pilih menu kolam
@@ -44,7 +44,8 @@ tags:
     text: "Catatan"
 -  scrollUntilVisible:
     element:
-      text: "Catatan" # or any other selecto
+      text: "Catatan" #or any other selecto
+      index: 0
     direction: DOWN
    
 - tapOn: 
