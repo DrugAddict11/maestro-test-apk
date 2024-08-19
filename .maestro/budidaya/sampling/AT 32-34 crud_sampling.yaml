@@ -23,6 +23,9 @@ tags:
 #pilih field Automation Flutter
 - tapOn: 
     point: 227, 224
+
+- - assertVisible:
+    text:"Automation Flutter"
     
 - tapOn: 
     text: "Automation Flutter"
