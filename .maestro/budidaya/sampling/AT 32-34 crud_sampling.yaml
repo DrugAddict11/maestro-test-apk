@@ -12,7 +12,7 @@ tags:
     text: "Kolam"
 
 - tapOn:
-    text: "Kolam"
+    text: "Lite"
     repeat: 3
     delay: 5000
     
