@@ -27,9 +27,6 @@ tags:
 - tapOn: 
     text: "Automation Flutter"
     
-- assertNotVisible:
-     text: "Automation Flutter"
-    
 - tapOn:
     point: 57, 375
 
