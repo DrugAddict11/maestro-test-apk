@@ -102,9 +102,6 @@ tags:
 - tapOn:
     point: 553, 286
 
-- tapOn:
-    text: "ubah"
-
 - tapOn: 
     text: "300.0"
 - inputText: 
