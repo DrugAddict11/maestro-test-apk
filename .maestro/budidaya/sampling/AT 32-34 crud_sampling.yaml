@@ -14,7 +14,12 @@ tags:
 
 #pilih field Automation Flutter
 - tapOn: 
-    point:
+    point: 227, 224
+
+- tapOn:
+    text: "Kolam"
+    repeat: 3
+    delay: 5000
 
 - tapOn: "A1"
 - tapOn: "Sampling"
@@ -25,8 +30,10 @@ tags:
       text: "Catatan" # or any other selecto
       direction: DOWN
       index: 1
+      
 - tapOn: 
     text: "Catatan"
+    index: 1
     label: "Masukkan Catatan Test data sampling"
 - inputText: 
     text: "Test data sampling"
@@ -48,15 +55,14 @@ tags:
 #Pilih icon [edit] pada data current date
 - tapOn:
     point: 548,282
-- tapOn: 
-    text: "Catatan"
+    
 -  scrollUntilVisible:
     element:
       text: "Catatan" # or any other selecto
       direction: DOWN
-      index: 1
+      index: 0
 - tapOn: 
-    text: " Catatan"
+    text: "Test data sampling"
     label: "Masukkan Catatan edit data testing"
 - inputText: 
     text: "edit data sampling"
@@ -66,7 +72,7 @@ tags:
 
  # Input field 'MBW' = 0,75
 - tapOn: 
-    text: "0"
+    text: "1,15"
     label: "Masukkan field MBW 0,75"
 - inputText: 
     text: "0,75"
