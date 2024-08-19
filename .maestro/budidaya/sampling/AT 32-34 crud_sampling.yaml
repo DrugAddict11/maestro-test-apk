@@ -54,7 +54,6 @@ tags:
 - tapOn: 
     text: "Catatan"
     index: 1
-    label: "Masukkan Catatan Test data sampling"
 - inputText: 
     text: "Test data sampling"
     label: "Ketik test data sampling" 
