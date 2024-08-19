@@ -29,11 +29,6 @@ tags:
     
 - tapOn: 
     text: "Automation Flutter"
-
-- tapOn:
-    text: "Kolam"
-    repeat: 3
-    delay: 5000
     
 - tapOn:
     point: 57, 375
