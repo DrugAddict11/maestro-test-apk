@@ -25,9 +25,20 @@ tags:
     point: 227, 224
 - tapOn: 
     text: "Automation Flutter"
+    
+- tapOn:
+    text: "Kolam"
+    repeat: 3
+    delay: 5000
+    
 - tapOn:
     point: 57, 375
-- tapOn: "Sampling"
+
+#tap sampling
+- tapOn:
+    point: 435, 155
+
+
 - tapOn: 
     text: "Catatan"
 -  scrollUntilVisible:
