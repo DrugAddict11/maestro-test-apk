@@ -8,6 +8,14 @@ tags:
 
 - runFlow: login_email.yaml
 
+- assertVisible:
+    text: "Kolam"
+
+- tapOn:
+    text: "Kolam"
+    repeat: 3
+    delay: 5000
+    
 #pilih menu kolam
 - tapOn:
     point: 235, 681
@@ -17,11 +25,7 @@ tags:
     point: 227, 224
 
 - tapOn:
-    text: "Kolam"
-    repeat: 3
-    delay: 5000
-
-- tapOn: "A1"
+    point: 57, 375
 - tapOn: "Sampling"
 - tapOn: 
     text: "Catatan"
