@@ -42,6 +42,9 @@ tags:
 
 - tapOn: 
     text: "Catatan"
+
+- scroll 
+
 -  scrollUntilVisible:
     element:
       text: "Catatan" #or any other selecto
