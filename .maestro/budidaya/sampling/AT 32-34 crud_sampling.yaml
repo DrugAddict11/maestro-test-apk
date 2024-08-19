@@ -73,7 +73,9 @@ tags:
 #Pilih icon [edit] pada data current date
 - tapOn:
     point: 548,282
-    
+
+- scroll
+
 -  scrollUntilVisible:
     element:
       text: "Test data sampling" # or any other selecto
@@ -91,7 +93,7 @@ tags:
  # Input field 'MBW' = 0,75
 - tapOn: 
     text: "1,15"
-    label: "Masukkan field MBW 0,75"
+    
 - inputText: 
     text: "0,75"
     label: "Ketik 0,75"
