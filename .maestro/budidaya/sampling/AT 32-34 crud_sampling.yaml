@@ -8,6 +8,13 @@ tags:
 
 - runFlow: login_email.yaml
 
+#pilih field Automation Flutter
+- tapOn:
+    point: 150,220
+
+- tapOn:
+    text: "Automation Flutter"
+    
 - assertVisible:
     text: "Kolam"
 
@@ -20,16 +27,15 @@ tags:
 - tapOn:
     point: 235, 681
 
-#pilih field Automation Flutter
-- tapOn: 
-    point: 227, 224
+- tapOn:
+    text: "Kolam"
+    repeat: 3
+    delay: 5000
     
-- tapOn: 
-    text: "Automation Flutter"
-    
+ #tap A1
 - tapOn:
     point: 57, 375
-
+    
 #tap sampling
 - tapOn:
     point: 435, 155
