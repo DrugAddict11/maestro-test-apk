@@ -102,6 +102,9 @@ tags:
 - tapOn:
     point: 553, 286
 
+- assertVisible:
+    text: "A1"
+    
 - tapOn: 
     text: "300.0"
 - inputText: 
