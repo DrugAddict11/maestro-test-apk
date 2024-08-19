@@ -75,10 +75,12 @@ tags:
     label: "Ketik 100"
 
 - hideKeyboard
-- scroll
+
 - tapOn:
     text: "Parameter lainnya"
     point: 142, 1025
+
+- scroll
 
 -  scrollUntilVisible:
     element:
@@ -104,8 +106,7 @@ tags:
     text: "ubah"
 
 - tapOn: 
-    text: "-"
-    index: 2
+    text: "300.0"
 - inputText: 
     text: "30,24"
     label: "Ketik 30,24"
@@ -113,8 +114,7 @@ tags:
 - hideKeyboard
 
 - tapOn: 
-    text: "-"
-    index: 1
+    text: "200.0"
 - inputText: 
     text: "20,7"
     label: "Ketik 20,7"
@@ -122,8 +122,7 @@ tags:
 - hide keyboard
 
 - tapOn: 
-    text: "-"
-    index: 0
+    text: "100.0"
 - inputText: 
     text: "10,5"
     label: "Ketik 10,5"
