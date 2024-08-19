@@ -92,7 +92,7 @@ tags:
 
  # Input field 'MBW' = 0,75
 - tapOn: 
-    text: "1,15"
+    text: "1.15"
     
 - inputText: 
     text: "0,75"
