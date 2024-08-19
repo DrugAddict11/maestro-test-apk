@@ -24,7 +24,7 @@ tags:
 - tapOn: 
     point: 227, 224
 
-- - assertVisible:
+- assertVisible:
     text:"Automation Flutter"
     
 - tapOn: 
