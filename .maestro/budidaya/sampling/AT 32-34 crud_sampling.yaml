@@ -28,8 +28,9 @@ tags:
 -  scrollUntilVisible:
     element:
       text: "Catatan" # or any other selecto
+       index: 1
     direction: DOWN
-    index: 1
+   
       
 - tapOn: 
     text: "Catatan"
