@@ -99,7 +99,7 @@ tags:
 - tapOn: "Simpan"
 
 - assertVisible:
-    text: "A1"
+    text: "Ubah"
 
 # tap icon titik tiga
 - tapOn:
