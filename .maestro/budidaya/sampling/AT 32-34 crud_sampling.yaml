@@ -23,14 +23,10 @@ tags:
 #pilih field Automation Flutter
 - tapOn: 
     point: 227, 224
+    
 - tapOn: 
     text: "Automation Flutter"
-    
-- tapOn:
-    text: "Kolam"
-    repeat: 3
-    delay: 5000
-    
+        
 - tapOn:
     point: 57, 375
 
