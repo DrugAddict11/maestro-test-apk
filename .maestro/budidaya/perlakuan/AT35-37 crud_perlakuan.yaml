@@ -51,6 +51,7 @@ tags:
 
 - tapOn: 
     text: "Perlakuan"
+    index: 1
 - inputText:
     text: "Saprotam 2,5kg"
     label: "Ketik Saprotam 2,5kg"
@@ -61,7 +62,7 @@ tags:
     text: "Catatan"
 - inputText:
     text: "test pemberian Perlakuan"
-    label: "test pemberian perlakuan"
+    label: " Ketik test pemberian perlakuan"
 
 - hideKeyboard
 
