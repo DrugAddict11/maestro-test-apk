@@ -39,6 +39,9 @@ tags:
 #tap sampling
 - tapOn:
     point: 435, 155
+
+- swipe:              
+    direction: LEFT
     
 - tapOn: 
     text: "Catatan"
