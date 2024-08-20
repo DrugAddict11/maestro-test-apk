@@ -48,7 +48,7 @@ tags:
     
 - tapOn: 
     text: "Perlakuan"
-    index: 1
+    index: 2
 - inputText:
     text: "Saprotam 2,5kg"
     label: "Ketik Saprotam 2,5kg"
