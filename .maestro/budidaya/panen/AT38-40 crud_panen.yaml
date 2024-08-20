@@ -109,8 +109,7 @@ tags:
     point: 548,282
 
 - tapOn: 
-    text: "-"
-    index: 2
+    text: "45000.0"
 - inputText: 
     text: "47500"
     label: "Ketik 47500"
@@ -118,8 +117,7 @@ tags:
 - hideKeyboard
 
 - tapOn: 
-    text: "-"
-    index: 1
+    text: "100.0"
 - inputText: 
     text: "95"
     label: "Ketik 95"
@@ -127,8 +125,7 @@ tags:
 - hideKeyboard
 
 - tapOn: 
-    text: "-"
-    index: 0
+    text: "400.0"
 - inputText: 
     text: "375"
     label: "Ketik 375"
