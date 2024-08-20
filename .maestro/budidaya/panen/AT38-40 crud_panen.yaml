@@ -93,13 +93,15 @@ tags:
     text: "JALA"
     label: "Ketik JALA"
   
+- hideKeyboard
 
 - tapOn: 
     text: "Catatan"
 - inputText: 
     text: "Test automation"
    
-   
+- hideKeyboard
+
 - tapOn: "Simpan"
 
 # tap icon edit
