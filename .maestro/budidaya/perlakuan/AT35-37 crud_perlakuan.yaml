@@ -45,12 +45,12 @@ tags:
     
 - tapOn: 
     text: "Catatan"
+    
 - tapOn:
     text: "Catatan Tertulis"
 
 - tapOn: 
     text: "Perlakuan"
-    index: 1
 - inputText:
     text: "Saprotam 2,5kg"
     label: "Ketik Saprotam 2,5kg"
