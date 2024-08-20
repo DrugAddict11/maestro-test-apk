@@ -98,13 +98,13 @@ tags:
     text: "Catatan"
 - inputText: 
     text: "Test automation"
-    label: "Test automation"
+   
    
 - tapOn: "Simpan"
 
 # tap icon edit
-- tapOn:
-    point: 555,287
+ tapOn:
+    point: 548,282
 
 - tapOn: 
     text: "-"
