@@ -1,5 +1,5 @@
 flows:
-  - budidaya/panen/*
+  - budidaya/perlakuan/*
   
 excludeTags:
   - login
@@ -10,5 +10,5 @@ excludeTags:
 executionOrder:
     continueOnFailure: false
     flowsOrder:
-        - AT38CRUD
+        - AT35CRUD
         
