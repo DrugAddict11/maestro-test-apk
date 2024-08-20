@@ -3,18 +3,43 @@ name: AT35CRUD
 tags:
   - ATPERLAKUAN
 ---
-- clearstate
+- clearState
 - launchApp
 
-- runflow: login_email.yaml
+- runFlow: login_email.yaml
+
+#pilih field Automation Flutter
+- tapOn:
+    point: 150,220
+
+- tapOn:
+    text: "Automation Flutter"
+
+- assertVisible:
+    text: "Kolam"
+
+- tapOn:
+    text: "Lite"
+    repeat: 3
+    delay: 5000
 
 #pilih menu kolam
 - tapOn:
     point: 235, 681
 
-- tapOn: "A1"
-- tapOn: "Sampling"
-- tapOn: "Perlakuan"
+- tapOn:
+    text: "Kolam"
+    repeat: 3
+    delay: 5000
+    
+ #tap A1
+- tapOn:
+    point: 57, 375
+    
+#tap sampling
+- tapOn:
+    point: 435, 155
+    
 - tapOn: 
     text: "Catatan"
 - tapOn:
@@ -31,7 +56,6 @@ tags:
 
 - tapOn: 
     text: "Catatan"
-    index: 1
 - inputText:
     text: "test pemberian Perlakuan"
     label: "test pemberian perlakuan"
@@ -54,8 +78,7 @@ tags:
 - hideKeyboard
 
 - tapOn: 
-    text: "Catatan"
-    index: 1
+    text: "test pemberian Perlakuan"
 - inputText:
     text: "ubah pemberian Perlakuan"
     label: "ubah pemberian perlakuan"
