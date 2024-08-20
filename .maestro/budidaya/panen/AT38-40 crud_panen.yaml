@@ -103,7 +103,7 @@ tags:
 - tapOn: "Simpan"
 
 # tap icon edit
- tapOn:
+- tapOn:
     point: 548,282
 
 - tapOn: 
