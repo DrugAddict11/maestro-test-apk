@@ -46,9 +46,6 @@ tags:
 - tapOn: 
     text: "Catatan"
     
-- tapOn:
-    text: "Catatan Tertulis"
-
 - tapOn: 
     text: "Perlakuan"
     index: 1
