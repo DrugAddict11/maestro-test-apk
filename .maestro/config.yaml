@@ -3,12 +3,12 @@ flows:
   
 excludeTags:
   - login
-  - ATKIMIA
+  - ATPERLAKUAN
   - ATPANEN
   - ATSAMPLING
   
 executionOrder:
     continueOnFailure: false
     flowsOrder:
-        - AT35CRUD
+        - AT44CRUD
         
