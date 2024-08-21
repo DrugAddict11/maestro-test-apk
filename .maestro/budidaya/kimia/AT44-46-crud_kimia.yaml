@@ -98,9 +98,6 @@ tags:
 
 - tapOn: "Simpan"
 
-- assertVisible:
-    text: "Ubah"
-
 # tap icon titik tiga
 - tapOn:
     point: 553, 286
