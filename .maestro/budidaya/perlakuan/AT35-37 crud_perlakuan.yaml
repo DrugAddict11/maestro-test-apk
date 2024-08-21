@@ -67,7 +67,7 @@ tags:
 
   #Pilih icon [edit] pada data current date
 - tapOn:
-    point: 548,282
+    point: 563,349
 
 - tapOn: 
     text: "Perlakuan"
@@ -90,7 +90,7 @@ tags:
 
 # Tap icon edit
 - tapOn:
-    point: 548,282
+    point: 563,349
 
 - tapOn:
     text: "Hapus"
