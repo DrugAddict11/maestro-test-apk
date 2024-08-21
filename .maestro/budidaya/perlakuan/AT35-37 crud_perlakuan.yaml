@@ -70,8 +70,7 @@ tags:
     point: 563,349
 
 - tapOn: 
-    text: "Perlakuan"
-    index: 1
+    text: "Saprotam 2,5kg"
 - inputText:
     text: "Kapur Tohor 100gr"
     label: "Ketik Kapur Tohor 100gr"
