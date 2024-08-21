@@ -1,5 +1,5 @@
 flows:
-  - budidaya/perlakuan/*
+  - budidaya/kimia/*
   
 excludeTags:
   - login
