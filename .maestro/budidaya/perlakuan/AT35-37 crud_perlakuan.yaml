@@ -71,6 +71,9 @@ tags:
 
 - tapOn: 
     text: "Saprotam 2,5kg"
+
+- eraseText 
+
 - inputText:
     text: "Kapur Tohor 100gr"
     label: "Ketik Kapur Tohor 100gr"
@@ -79,6 +82,9 @@ tags:
 
 - tapOn: 
     text: "test pemberian Perlakuan"
+
+- eraseText 
+
 - inputText:
     text: "ubah pemberian Perlakuan"
     label: "ubah pemberian perlakuan"
