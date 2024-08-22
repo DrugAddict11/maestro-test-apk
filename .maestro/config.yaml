@@ -1,5 +1,5 @@
 flows:
-  - budidaya/kimia/*
+  - budidaya/mikrobiologi/*
   
 excludeTags:
   - login
@@ -10,5 +10,5 @@ excludeTags:
 executionOrder:
     continueOnFailure: false
     flowsOrder:
-        - AT44CRUD
+        - AT50CRUD
         
