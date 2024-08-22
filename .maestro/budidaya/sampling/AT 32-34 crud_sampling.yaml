@@ -84,6 +84,9 @@ tags:
 - tapOn: 
     text: "Test data sampling"
     label: "Masukkan Catatan edit data testing"
+
+- eraseText 
+
 - inputText: 
     text: "edit data sampling"
     label: "Ketik edit data sampling" 
@@ -93,7 +96,9 @@ tags:
  # Input field 'MBW' = 0,75
 - tapOn: 
     text: "1.15"
-    
+
+- eraseText 
+
 - inputText: 
     text: "0,75"
     label: "Ketik 0,75"
