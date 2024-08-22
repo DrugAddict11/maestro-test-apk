@@ -67,6 +67,7 @@ tags:
 - tapOn: 
     text: "-"
     index: 5
+    
 - inputText: 
     text: "500"
     label: "500"
@@ -131,18 +132,27 @@ tags:
 
 - tapOn:
     text: "600.0"
+    
+- eraseText 
+
 - inputText:
     text: "600,43"
     label: "Ketik 600,43"
 
 - tapOn:
     text: "200.0"
+
+- eraseText 
+
 - inputText:
     text: "200,32"
     label: "Ketik 200,32"
 
 - tapOn:
     text: "100.0"
+
+- eraseText 
+
 - inputText:
     text: "100,21"
     label: "Ketik 100,21"
