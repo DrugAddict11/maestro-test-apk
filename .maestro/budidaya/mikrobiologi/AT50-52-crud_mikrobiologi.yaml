@@ -127,6 +127,9 @@ tags:
     point: 548,282
 
 - tapOn:
+    text: "Ubah"
+
+- tapOn:
     text: "600"
 - inputText:
     text: "600,43"
