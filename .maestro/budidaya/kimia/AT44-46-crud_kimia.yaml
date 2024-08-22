@@ -98,6 +98,9 @@ tags:
 
 - tapOn: "Simpan"
 
+- assertNotVisible:
+    text: "Simpan"
+
 # tap icon titik tiga
 - tapOn:
     point: 553, 286
