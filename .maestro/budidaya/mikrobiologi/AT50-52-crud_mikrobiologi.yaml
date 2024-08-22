@@ -118,6 +118,9 @@ tags:
 - hideKeyboard
 
 - tapOn: "Simpan"
+
+- assertNotVisible:
+    text: "Simpan"
     
 # tap icon edit
 - tapOn:
@@ -145,6 +148,9 @@ tags:
 
 - tapOn: "Simpan"
 
+- assertNotVisible:
+    text: "Simpan"
+    
 # tap icon edit
 - tapOn:
     point: 548,282
