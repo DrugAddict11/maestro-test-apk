@@ -104,6 +104,9 @@ tags:
     
 - tapOn: 
     text: "300.0"
+
+- eraseText 
+
 - inputText: 
     text: "30,24"
     label: "Ketik 30,24"
@@ -112,6 +115,9 @@ tags:
 
 - tapOn: 
     text: "200.0"
+
+- eraseText 
+
 - inputText: 
     text: "20,7"
     label: "Ketik 20,7"
@@ -120,6 +126,9 @@ tags:
 
 - tapOn: 
     text: "100.0"
+
+- eraseText 
+
 - inputText: 
     text: "10,5"
     label: "Ketik 10,5"
