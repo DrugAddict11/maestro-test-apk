@@ -1,14 +1,15 @@
 flows:
-  - budidaya/mikrobiologi/*
+  - budidaya/kimia/*
   
 excludeTags:
   - login
   - ATPERLAKUAN
   - ATPANEN
   - ATSAMPLING
+  - ATMIKROBIOLOGI
   
 executionOrder:
     continueOnFailure: false
     flowsOrder:
-        - AT50CRUD
+        - AT44CRUD
         
