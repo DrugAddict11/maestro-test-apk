@@ -104,7 +104,9 @@ tags:
 # tap icon titik tiga
 - tapOn:
     point: 553, 286
-    
+
+- tapOn:
+    text: "Ubah"
 - tapOn: 
     text: "300.0"
 
